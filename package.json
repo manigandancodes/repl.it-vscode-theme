@@ -1,0 +1,21 @@
+{
+    "name": "repl-it",
+    "displayName": "repl.it",
+    "description": "Theme inspired by Repl.it",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "replt.it",
+                "uiTheme": "vs-dark",
+                "path": "./themes/replt.it-color-theme.json"
+            }
+        ]
+    }
+}
