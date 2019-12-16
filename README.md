@@ -14,15 +14,15 @@
 ---
 
 **Python Screenshot**
-![alt text](https://github.com/manigandancodes/repl.it-vscode-theme/raw/master/screenshots/python.png)
+![python screenshot](https://github.com/manigandancodes/repl.it-vscode-theme/raw/master/screenshots/python.png)
 
 **Javascript Screenshot**
 ![javascript screenshot](https://github.com/manigandancodes/repl.it-vscode-theme/raw/master/screenshots/javascript.png)
 
-> _More language support coming soon..._
 
-If I missed anything please feel free to file an issue! or contribute.
+> [If I missed anything please feel free to file an issue! or contribute](https://github.com/manigandancodes/repl.it-vscode-theme/issues).
 
 Get in Touch
 
 [Twitter](https://twitter.com/manigandancodes) **_manigandancodes_**
+
