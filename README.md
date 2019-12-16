@@ -14,14 +14,22 @@
 ---
 
 **Python Screenshot**
-![alt text](https://github.com/manigandancodes/repl.it-vscode-theme/raw/master/screenshots/python.png)
+![python screenshot](https://github.com/manigandancodes/repl.it-vscode-theme/raw/master/screenshots/python.png)
 
 **Javascript Screenshot**
 ![javascript screenshot](https://github.com/manigandancodes/repl.it-vscode-theme/raw/master/screenshots/javascript.png)
 
-> _More language support coming soon..._
+**Java Screenshot**
+![java screenshot](https://github.com/manigandancodes/repl.it-vscode-theme/raw/master/screenshots/java.png)
 
-If I missed anything please feel free to file an issue! or contribute.
+**C Screenshot**
+![c screenshot](https://github.com/manigandancodes/repl.it-vscode-theme/raw/master/screenshots/c.png)
+
+**CPP Screenshot**
+
+![cpp screenshot](https://github.com/manigandancodes/repl.it-vscode-theme/raw/master/screenshots/cpp.png)
+
+> [If I missed anything please feel free to file an issue! or contribute.](https://github.com/manigandancodes/repl.it-vscode-theme/issues)
 
 Get in Touch
 
