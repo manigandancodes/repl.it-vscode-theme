@@ -1,18 +1,23 @@
 # A Visual Studio Code theme based on Repl.it IDE
 
-> It's a work in progress, as of now it works with Javascript and Python
+## Installation via VS Code
 
-## Installation
+1. Open Extensions panel in VS Code. View → Extensions
+2. Search for **repl**
+3. Click Install to install it
+4. Code > Preferences > Color Theme > repl.it
+
+## Manual Installation
 
 - To start using this extension with Visual Studio Code, clone this repo and copy it into the <user home>/.vscode/extensions folder and restart Code.
 
 ---
 
 **Python Screenshot**
-![alt text](screenshots/python.png)
+![alt text](https://github.com/manigandancodes/repl.it-vscode-theme/raw/master/screenshots/python.png)
 
 **Javascript Screenshot**
-![javascript screenshot](screenshots/javascript.png)
+![javascript screenshot](https://github.com/manigandancodes/repl.it-vscode-theme/raw/master/screenshots/javascript.png)
 
 > _More language support coming soon..._
 
