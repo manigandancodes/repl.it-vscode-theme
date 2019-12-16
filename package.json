@@ -1,21 +1,36 @@
 {
-    "name": "repl-it",
-    "displayName": "repl.it",
-    "description": "Theme inspired by Repl.it",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.41.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "replt.it",
-                "uiTheme": "vs-dark",
-                "path": "./themes/replt.it-color-theme.json"
-            }
-        ]
-    }
+  "name": "repl-it-theme",
+  "displayName": "Repl.it Theme",
+  "publisher": "manigandancodes",
+  "description": "A Visual Studio Code theme based on Repl.it IDE",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.41.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manigandancodes/repl.it-vscode-theme"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "logo.png",
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "repl.it theme",
+    "repl theme",
+    "repl",
+    "repl.it",
+    "Accessible Theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "replt.it",
+        "uiTheme": "vs-dark",
+        "path": "./themes/replt.it-color-theme.json"
+      }
+    ]
+  }
 }
