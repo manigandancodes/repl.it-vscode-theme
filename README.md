@@ -3,9 +3,9 @@
 ## Installation via VS Code
 
 1. Open Extensions panel in VS Code. View → Extensions
-2. Search for **repl**
+2. Search for **<span>repl.it</span>**
 3. Click Install to install it
-4. Code > Preferences > Color Theme > repl.it
+4. Code > Preferences > Color Theme > **<span>repl.it<span>**
 
 ## Manual Installation
 
